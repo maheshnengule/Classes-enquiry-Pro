@@ -40,7 +40,7 @@ Perfectly styled, mobile-friendly, and database-integrated.
 
 1. Clone or download the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/classes-enquiry-pro.git
+git clone https://github.com/maheshnengule/classes-enquiry-pro.git
 
 
 📬 Usage  📬
@@ -50,6 +50,8 @@ Students view courses and submit their enquiry.
 After submission, they see a personalized thank-you screen.
 
 All data is stored in the database for admin tracking.
+
+
 
 🛠️ Technologies Used   🛠️
 
