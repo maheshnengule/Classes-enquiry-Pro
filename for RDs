@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS mahesh_classes;
+USE mahesh_classes;
+
+CREATE TABLE class_enquiries (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(100) NOT NULL,
+  email VARCHAR(100) NOT NULL,
+  course VARCHAR(100) NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
